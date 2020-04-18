@@ -1,6 +1,9 @@
+
 ### Flutter calculator
 
 This project is not a working calculator app, this is just a Flutter design demo.
+
+[![Light mode](https://raw.githubusercontent.com/kristijandraca/Flutter-Calculator/master/screenshots/rsz_demo_light.png)](https://raw.githubusercontent.com/kristijandraca/Flutter-Calculator/master/screenshots/demo_light.png)[![Light mode](https://raw.githubusercontent.com/kristijandraca/Flutter-Calculator/master/screenshots/rsz_demo_dark.png)](https://raw.githubusercontent.com/kristijandraca/Flutter-Calculator/master/screenshots/demo_dark.png)
 
 Font used in this demo is [Raleway](https://fonts.google.com/specimen/Raleway)  under [SIL Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
